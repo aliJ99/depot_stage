@@ -1,3 +1,6 @@
+
+#### La plupart des codes ici sont similaires : Ils contiennent une importation de données, l'entrainement d'un encodeur-décodeur et l'entrainement d'un auto-encodeur pour la reconstruction des vecteurs latents du premier. Certains d'entre eux sont spécifiques à des bases de données bien précises (Simulation hydrodynamique par exemple) et nécessite une importation différente, ou à des structures d'auto-encodeurs particulières etc...
+
 **1D_convo** : test sur figure en 1D                                                                                                                                                     
 **Beta_VAE_MNIST** : Test de demelage sur MNIST                                                                                                                                      
 
